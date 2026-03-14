@@ -60,7 +60,7 @@ Python data analysis project exploring customer churn behavior.
 ---
 
 <!-- Snake Animation -->
-![snake animation](https://github.com/s-kumar5/s-kumar5/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/s-kumar5/s-kumar5/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Footer -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
