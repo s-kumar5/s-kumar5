@@ -13,8 +13,8 @@
 ## 🚀 About Me
 
 - 📊 Passionate about **Data Analytics**
-- 📈 Skilled in **SQL, Power BI, Excel**
-- 🐍 Learning **Python for Data Analysis**
+- 📈 Skilled in **SQL, Power BI,Tableau, Excel, Python**
+- 🐍 Learning **Bigquery, ML for Data Analysis**
 - 🎯 Goal: Become a **Data Analyst**
 
 ---
