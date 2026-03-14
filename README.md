@@ -1,55 +1,66 @@
-<h1 align="center">Hi 👋, I'm Sunil Kumar</h1>
+<!-- Animated Header -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Sunil%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 <h3 align="center">Aspiring Data Analyst | SQL | Power BI | Python</h3>
+
+<!-- Visitor Counter -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=s-kumar5&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 📊 Passionate about Data Analysis and Business Insights  
-- 🧠 Skilled in **SQL, Power BI, Excel, Python**  
-- 📈 Experienced in building **KPI Dashboards & Data Analysis Projects**  
-- 🌱 Currently learning **Advanced SQL & Python Automation**
+- 📊 Passionate about **Data Analytics**
+- 📈 Skilled in **SQL, Power BI, Excel**
+- 🐍 Learning **Python for Data Analysis**
+- 🎯 Goal: Become a **Data Analyst**
 
 ---
 
-## 🛠 Tech Stack
+## 📂 Projects
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,azure" />
-</p>
+### 📊 Inventory Management System
+SQL project demonstrating joins, aggregations and analytics queries.
 
-**Data Tools**
+### 💳 Bank Loan Risk KPI Analysis
+SQL + Power BI project analyzing loan performance and risk metrics.
 
-- SQL Server  
-- Power BI  
-- Excel  
-- Python (Pandas, Matplotlib)
+### 📈 Sales Performance Dashboard
+Power BI dashboard showing sales KPIs and revenue trends.
 
----
+### 🚖 OLA Ride Analysis
+End-to-end analysis of ride sharing data using SQL and Power BI.
 
-## 📂 My Projects
-
-🔹 **US Bank Loan Risk Analysis**  
-SQL + Power BI project analyzing loan risk and KPIs.
-
-🔹 **Sales Performance Dashboard**  
-Power BI dashboard for sales KPI tracking.
-
-🔹 **Inventory Management System**  
-SQL project demonstrating joins, aggregations, and queries.
-
-🔹 **Customer Churn Analysis**  
-Python project analyzing churn patterns.
+### 🔍 Customer Churn Analysis
+Python data analysis project exploring customer churn behavior.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kumar5&show_icons=true&theme=default)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=s-kumar5&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=s-kumar5&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/sunil-data-analyst
-- Email: sunilku887mar@gmail.com
+<p align="left">
+<a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+</p>
+
+---
+
+<!-- Snake Animation -->
+![snake animation](https://github.com/s-kumar5/s-kumar5/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Footer -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
