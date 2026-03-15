@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍🎓 About Me
 
 - 📊 Passionate about **Data Analytics**
 - 📈 Skilled in **SQL, Power BI,Tableau, Excel, Python**
