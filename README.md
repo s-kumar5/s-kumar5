@@ -1,12 +1,15 @@
 <!-- Animated Header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Sunil%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<h3 align="center">Aspiring Data Analyst | SQL | Power BI | Python</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Data+Analyst;SQL+%7C+Power+BI+%7C+Python;Building+Data+Projects;Turning+Data+into+Insights" />
+</p>
 
 <!-- Visitor Counter -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=s-kumar5&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
+
 
 ---
 
